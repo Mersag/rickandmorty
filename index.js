@@ -42,3 +42,5 @@ function writeHtml(){
     const planets = document.querySelector('[data-js="planets"]');
     
 }
+
+//
